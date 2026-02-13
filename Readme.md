@@ -17,7 +17,7 @@
 This example demonstrates how to extend [LayoutControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.LayoutControl.LayoutControl) and [LayoutGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.LayoutControl.LayoutGroup) to support proportional resizing. Please note that this custom solution may not support all possible usage scenarios/configurations. If proportional resizing is required, we recommend that you use controls that support this functionality out of the box ([DockLayoutManager](https://docs.devexpress.com/WPF/6820/controls-and-libraries/layout-management/dock-windows/getting-started/dock-layout-manager) with [layout groups](https://docs.devexpress.com/WPF/DevExpress.Xpf.LayoutControl.LayoutGroup) and [items](https://docs.devexpress.com/WPF/7223/controls-and-libraries/layout-management/dock-windows/layout-items) or a standard [Grid](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.grid)).
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-layoutcontrol-change-layoutgroup-size-proportionally&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-layoutcontrol-change-layoutgroup-size-proportionally&~~~was_helpful=no)
 
